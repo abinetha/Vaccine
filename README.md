@@ -53,7 +53,7 @@ The dataset used for this project is stored in a CSV file named 'h1n1_vaccine_pr
 **Clone the repository:**
 
 ```
-git clone https://github.com/yourusername/H1N1_Vaccine_Prediction.git
+git clone https://github.com/abinetha/Vaccine.git
 ```
 
 **Install dependencies:**
